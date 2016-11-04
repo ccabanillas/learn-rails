@@ -12,7 +12,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'byebug'
 gem 'web-console', '~>2.0'
-gem 'spring'
+gem 'spring', '2.0'
 
 # learn-rails
 gem 'foundation-rails', '~> 5.5'
